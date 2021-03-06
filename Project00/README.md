@@ -19,4 +19,9 @@ you will implement a simple calculator, Kalculator, which supports the following
 > - getMinK(int k): Return an array of minimum k numbers of all the numbers in the list.
 > - printData(): Print all the numbers in the list. 
 
-After initialization, a Kalculator maintains a list of numbers (you can use either an array or an ArrayList to implement this), each of which can be inserted via addNumber(double number) only. That is, the user programs must not be able to access any Kalculator’s class attributes directly. They must do so via the above public methods. You can assume that a Kalculator can hold not more than 10,000 numbers.
+After initialization, a Kalculator maintains a list of numbers<br>
+(you can use either an array or an ArrayList to implement this),<br>
+each of which can be inserted via addNumber(double number) only.<br>
+That is, the user programs must not be able to access any Kalculator’s class attributes directly.<br>
+They must do so via the above public methods.<br>
+You can assume that a Kalculator can hold not more than 10,000 numbers.<br
