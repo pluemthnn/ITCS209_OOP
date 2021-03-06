@@ -1,6 +1,6 @@
 # Introduction:
 
-Implementing an automated routine to do things for you is a fundamental application of programming. 
+Implementing an automated routine to do things for you is a fundamental application of programming.<br>
 The ability to speak programming languages fluently allows you to communicate with computers<br>
 in order to develop a wide range of useful, intelligent applications. In this project,<br>
 you will implement a simple calculator, Kalculator, which supports the following calculation 
